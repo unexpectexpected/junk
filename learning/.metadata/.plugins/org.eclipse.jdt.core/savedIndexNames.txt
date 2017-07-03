@@ -1,0 +1,21 @@
+INDEX VERSION 1.129+E:\Workdir\Maven\Learning\.metadata\.plugins\org.eclipse.jdt.core
+2453911318.index
+543177854.index
+2582384556.index
+1149189482.index
+643291192.index
+3654221694.index
+1591343756.index
+4065382167.index
+4114664907.index
+3348704081.index
+2032954633.index
+2484892381.index
+1167389040.index
+3276016807.index
+1893398777.index
+2813837465.index
+2949542612.index
+1290871163.index
+1251011166.index
+481458910.index
